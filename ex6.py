@@ -1,0 +1,5 @@
+a=input()
+b=input()
+c=input()
+d=min(a,b,c)
+ptint(d)
